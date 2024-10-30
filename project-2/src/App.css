@@ -33,5 +33,5 @@ button, li{
     display: flex;
     height: calc(100dvh - 120px);
     flex-direction: column;
-    justify-content: end ;
+    margin-top: 24px;
 }
